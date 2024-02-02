@@ -1,0 +1,12 @@
+{
+  "python.analysis.extraPaths": [
+    "./codigo",
+    "./tests"
+  ],
+  "python.terminal.activateEnvInCurrentTerminal": false,
+  "django.snippets.exclude": [
+
+    "cms",
+    "wagtail"
+  ]
+}
